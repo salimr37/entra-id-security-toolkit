@@ -1,0 +1,6 @@
+output/
+reports/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
